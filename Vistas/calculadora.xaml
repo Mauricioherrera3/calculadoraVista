@@ -57,7 +57,7 @@
         <Label Content="0" HorizontalAlignment="Left" Margin="75,74,0,0" VerticalAlignment="Top" Height="34" Width="19" Grid.ColumnSpan="2"/>
         <Label Content="0" HorizontalAlignment="Left" Margin="75,55,0,0" VerticalAlignment="Top" Height="36" Width="19" Grid.ColumnSpan="2" RenderTransformOrigin="0.543,0.175"/>
         <Label Content="0" HorizontalAlignment="Left" Margin="75,37,0,0" VerticalAlignment="Top" Height="35" Width="19" Grid.ColumnSpan="2"/>
-        <Label Content="" HorizontalAlignment="Left" Margin="8,49,0,0" VerticalAlignment="Top" Height="109" Width="347" Grid.Column="1" Background="Aquamarine"/>
+        <Label Content=" " HorizontalAlignment="Left" Margin="8,49,0,0" VerticalAlignment="Top" Height="109" Width="347" Grid.Column="1" Background="Aquamarine"/>
 
     </Grid>
 </Window>
